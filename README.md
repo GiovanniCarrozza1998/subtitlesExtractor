@@ -20,5 +20,3 @@ Usage
 4) Cleaning and saving subtitles: the program joins the collection of texts, clean it and then save it to a .txt file in thw specified working directory.
 
 Requirements: libraries listed in requirements.txt
-License
-This project is licensed under the MIT License.
