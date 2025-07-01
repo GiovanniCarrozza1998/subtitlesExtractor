@@ -1,0 +1,5 @@
+Pillow==9.3.0
+Pillow==11.2.1
+protobuf==6.31.1
+PyAutoGUI==0.9.54
+pytesseract==0.3.13
